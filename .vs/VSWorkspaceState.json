@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\VFX",
+    "\\VFX\\VFX_Weapon_Effect",
+    "\\VFX\\VFX_Weapon_Effect\\Assets",
+    "\\VFX\\VFX_Weapon_Effect\\Assets\\RB_Sword_Pack\\Materials",
+    "\\VFX\\VFX_Weapon_Effect\\Assets\\RB_Sword_Pack\\Textures"
   ],
-  "SelectedNode": "\\Unity.gitignore",
+  "SelectedNode": "\\VFX\\VFX_Weapon_Effect\\Assets\\Scenes",
   "PreviewInSolutionExplorer": false
 }
